@@ -1,0 +1,16 @@
+.DS_Store
+._*
+build/
+*.app/
+*.dmg
+*.zip
+*.exe
+*.dll
+.swiftpm/
+.build/
+.env
+.env.*
+*.key
+*.pem
+settings.json
+diagnostics.log
